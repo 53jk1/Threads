@@ -1,5 +1,3 @@
-package com.company;
-
 public class NewJavaThread extends Thread {
 
     private int data;
@@ -16,7 +14,7 @@ public class NewJavaThread extends Thread {
 
     public static void main(String args[]) {
         //Create a new thread
-        NewJavaThread th = new com.company.NewJavaThread();
+        NewJavaThread th = new NewJavaThread();
         th.data = 0x12345678;
         th.start();
 
