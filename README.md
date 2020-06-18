@@ -6,4 +6,4 @@ The build and run looks like this:
 
 >java NewJavaThread
 
-*output code*
+>*output code*
