@@ -2,8 +2,8 @@ Creating new threads in Java.
 
 The build and run looks like this:
 
-javac NewJavaThread.java
+>javac NewJavaThread.java
 
-java NewJavaThread
+>java NewJavaThread
 
 *output code*
